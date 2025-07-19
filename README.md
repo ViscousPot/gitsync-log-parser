@@ -2,7 +2,7 @@
 
 Simple tool to parse log files produced by GitSync
 
-Supports
+**Supports:**
 - `.zip` or `.log` files
 - Colour coding
 - Filtering by
